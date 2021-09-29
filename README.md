@@ -13,3 +13,7 @@ Projeto Feito no modúlo do curso Node + Typescript
 ### Para rodar o projeto:
 
 `npm run start-dev`
+
+### WEB 🌐
+
+https://tranquil-lake-34858.herokuapp.com/
