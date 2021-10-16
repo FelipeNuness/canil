@@ -1,8 +1,8 @@
 # canil
 
-Projeto Feito no modúlo do curso Node + Typescript
+Projeto Feito no modúlo do curso Node + Typescript Da B7web
 
-  ![Uploading gif.gif…]()
+  ![gif](https://github.com/FelipeNuness/canil/blob/main/gif.gif)
 
 ### WEB 🌐
 
